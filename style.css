@@ -1,0 +1,31 @@
+.container1{
+  
+   font-family:'Quantico',sans-serif ;
+   border: 2px black solid;
+   border-radius: 15%;
+   display: flex;
+   background: rgb(0, 0, 0);
+   border: 10px rgb(75, 75, 75) solid;
+   width: 600px;
+   height: 300px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 200px;
+   margin-top: 50px;
+    border-top: 21px rgb(75, 75, 75) solid;
+    border-bottom: 21px rgb(75, 75, 75) solid;
+   
+
+  
+   
+}
+
+.inline{
+    color: white;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+
